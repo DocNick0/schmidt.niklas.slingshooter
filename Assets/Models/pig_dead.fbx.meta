@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 7340252a601251446ad24beebdf093e5
+timeCreated: 1437161717
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group1
+    100002: group2
+    100004: liveObject_dead
+    100006: nurbsSphere1
+    100008: nurbsSphere2
+    100010: nurbsToPoly1
+    100012: nurbsToPoly2
+    100014: pCube4
+    100016: pCube5
+    100018: //RootNode
+    100020: pig_dead
+    100022: polySurface1
+    100024: pSphere10
+    100026: pSphere11
+    100028: pSphere12
+    100030: pSphere6
+    100032: pSphere7
+    100034: pSphere8
+    100036: pSphere9
+    100038: transform19
+    100040: transform20
+    100042: transform21
+    100044: transform22
+    100046: transform23
+    100048: transform24
+    100050: transform25
+    100052: transform26
+    100054: transform27
+    100056: transform28
+    100058: transform29
+    100060: transform30
+    400000: group1
+    400002: group2
+    400004: liveObject_dead
+    400006: nurbsSphere1
+    400008: nurbsSphere2
+    400010: nurbsToPoly1
+    400012: nurbsToPoly2
+    400014: pCube4
+    400016: pCube5
+    400018: //RootNode
+    400020: pig_dead
+    400022: polySurface1
+    400024: pSphere10
+    400026: pSphere11
+    400028: pSphere12
+    400030: pSphere6
+    400032: pSphere7
+    400034: pSphere8
+    400036: pSphere9
+    400038: transform19
+    400040: transform20
+    400042: transform21
+    400044: transform22
+    400046: transform23
+    400048: transform24
+    400050: transform25
+    400052: transform26
+    400054: transform27
+    400056: transform28
+    400058: transform29
+    400060: transform30
+    2300000: pig_dead
+    3300000: pig_dead
+    4300000: pig_dead
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
